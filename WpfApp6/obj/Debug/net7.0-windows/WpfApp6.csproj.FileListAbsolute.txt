@@ -1,0 +1,48 @@
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\WpfApp6.exe
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\WpfApp6.deps.json
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\WpfApp6.runtimeconfig.json
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\WpfApp6.dll
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\WpfApp6.pdb
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.csproj.AssemblyReference.cache
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\App.g.cs
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6_MarkupCompile.cache
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6_MarkupCompile.lref
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.g.resources
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.AssemblyInfoInputs.cache
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.AssemblyInfo.cs
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.csproj.CoreCompileInputs.cache
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.dll
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\refint\WpfApp6.dll
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.pdb
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.genruntimeconfig.cache
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\ref\WpfApp6.dll
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Academics\Third sem\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.csproj.CopyComplete
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\WpfApp6.exe
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\WpfApp6.deps.json
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\WpfApp6.runtimeconfig.json
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\WpfApp6.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\WpfApp6.pdb
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6_MarkupCompile.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6_MarkupCompile.lref
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.g.resources
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.csproj.CopyComplete
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\refint\WpfApp6.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.pdb
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\WpfApp6.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\GUI\WpfApp6\WpfApp6\obj\Debug\net7.0-windows\ref\WpfApp6.dll

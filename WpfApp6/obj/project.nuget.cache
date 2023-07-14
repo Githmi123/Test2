@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkBj5fh82JQgQl8FxDTugTbvwtEGvgyZVxUu5HeirDRaofkvTPljasa1BUR7Px5VwNmeQUA3iAO814bsdH8mPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Eng Ruh\\2nd year\\Semester 3\\GUI Programming\\GUI\\WpfApp6\\WpfApp6\\WpfApp6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
