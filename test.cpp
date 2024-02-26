@@ -4,7 +4,9 @@
 
 
 int square(int x){
-    return x;
+
+    return x*x*x;
+
 }   
 
 
