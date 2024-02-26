@@ -10,6 +10,9 @@ int square(int x){
 
 
 int main(){
-    int value = 7;
+    int value = 8;
     std::cout << "Square of " << value << " is " << square(value) << std::endl;
+#include<iostream>
+
+
 }
